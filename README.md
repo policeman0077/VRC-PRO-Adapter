@@ -1,12 +1,16 @@
 # VRC-PRO-Adapter
 
+<a href="https://www.buymeacoffee.com/policeman0E" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
 This program reads PWM signal from RC receiver and emulates a HID gamepad.
 
 Support both 32U4 and SAM D21 boards.
 
 Before compile and flash the program to your Arduino boards. Please install the hid library in the library.
 
+![Adapter](images/adapter.jpeg)
 
+# 用Arduino自制VRC PRO二通道转换器
 
 Arduino混创客圈的人应该很熟悉了。
 
