@@ -6,7 +6,7 @@ This program reads PWM signal from RC receiver and emulates a HID gamepad.
 
 Support both 32U4 and SAM D21 boards.
 
-Before compile and flash the program to your Arduino boards. Please install the hid library in the library.
+Before compile and flash the program to your Arduino boards. Please install the hid library in the folder.
 
 ![Adapter](images/adapter.jpeg)
 
