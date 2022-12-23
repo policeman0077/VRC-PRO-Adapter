@@ -3,10 +3,9 @@
 <a href="https://www.buymeacoffee.com/policeman0E" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 This program reads PWM signal from RC receiver and emulates a HID gamepad.
-
 Support both 32U4 and SAM D21 boards.
-
 Before compile and flash the program to your Arduino boards. Please install the hid library in the folder.
+For using with VRC Pro, recommend 2ch version firmware to get the best report rate.
 
 ![Adapter](images/adapter.jpeg)
 
